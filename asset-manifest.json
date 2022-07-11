@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b42de8f1.css",
+    "main.js": "/static/js/main.5391248d.js",
+    "static/js/787.369d2879.chunk.js": "/static/js/787.369d2879.chunk.js",
+    "static/media/loginbg.png": "/static/media/loginbg.f58a225fa600e3d1ccb4.png",
+    "static/media/loadingbar.gif": "/static/media/loadingbar.670d2d40ccf59ec7c475.gif",
+    "static/media/FtLeaveLogo.png": "/static/media/FtLeaveLogo.64f2b6b11fb71571d1c8.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b42de8f1.css.map": "/static/css/main.b42de8f1.css.map",
+    "main.5391248d.js.map": "/static/js/main.5391248d.js.map",
+    "787.369d2879.chunk.js.map": "/static/js/787.369d2879.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42de8f1.css",
+    "static/js/main.5391248d.js"
+  ]
+}
